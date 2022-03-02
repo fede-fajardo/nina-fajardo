@@ -38,12 +38,11 @@ body {
           animation-iteration-count: infinite;
 }
 
-.h2 {
-  color: #681068;
+.texto {
+  color: blueviolet;
 }
 
 p {
-  color: blueviolet;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -56,14 +55,12 @@ p {
 .iconoR {
   width: 90px;
   height: 90px;
-  color: aliceblue;
   padding-left: 5px;
 }
 
 .iconoT {
   width: 30px;
   height: 30px;
-  color: black;
 }
 
 .figure {
@@ -75,6 +72,34 @@ p {
   margin: 0%;
   padding: 10px;
   font-size: 14px;
+}
+
+.h1, p {
+  color: white;
+}
+
+.h2 {
+  color: white;
+}
+
+.h4 {
+  color: white;
+}
+
+.redes {
+  color: facebook blue;
+}
+
+.redes {
+  color: instagram #ca2f51;
+}
+
+.bi-facebook {
+  color: blue;
+}
+
+.bi-instagram {
+  color: #ca2f51;
 }
 
 @-webkit-keyframes aparecer {
