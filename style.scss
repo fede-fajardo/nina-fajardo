@@ -1,6 +1,6 @@
 $colorviolet: rgb(5, 5, 5);
 
-$redes:(facebook:blue, instagram:rgb(202, 47, 81));
+$redes:(facebook:rgb(72, 72, 247), instagram:rgb(202, 47, 81));
 
 @mixin color{
     color: rgb(255, 255, 255);
@@ -13,7 +13,7 @@ $redes:(facebook:blue, instagram:rgb(202, 47, 81));
 }
 
 body{
-    background:linear-gradient(blueviolet, violet, rgb(231, 193, 121));
+    background:linear-gradient(blueviolet, violet, pink);
     font-family: Georgia, 'Times New Roman', Times, serif;
     overflow-x: hidden;
 }

@@ -1,6 +1,6 @@
 body {
-  background: -webkit-gradient(linear, left top, left bottom, from(blueviolet), color-stop(violet), to(#e7c179));
-  background: linear-gradient(blueviolet, violet, #e7c179);
+  background: -webkit-gradient(linear, left top, left bottom, from(blueviolet), color-stop(violet), to(pink));
+  background: linear-gradient(blueviolet, violet, pink);
   font-family: Georgia, 'Times New Roman', Times, serif;
   overflow-x: hidden;
 }
@@ -87,7 +87,7 @@ p {
 }
 
 .redes {
-  color: facebook blue;
+  color: facebook #4848f7;
 }
 
 .redes {
@@ -95,7 +95,7 @@ p {
 }
 
 .bi-facebook {
-  color: blue;
+  color: #4848f7;
 }
 
 .bi-instagram {
